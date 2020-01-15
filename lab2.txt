@@ -1,0 +1,67 @@
+    1  ls
+    2  df\
+    3  df
+    4  cd /root
+    5  ls
+    6  ll
+    7  exit
+    8  netstat ?\
+    9  netstat ?
+   10  netstat -
+   11  man netstat
+   12  netstat
+   13  netstat -tunl
+   14  ls
+   15  apt-get install mavel -y
+   16  apt-get install maven -y
+   17  mvn --version
+   18  history
+   19  java -jar jenkins.war --httpPort=9090 &
+   20  java --version
+   21  ls
+   22  cd devopgit/
+   23  ls
+   24  java -jar jenkins.war --httpPort=9090 &
+   25  sp-get update
+   26* a[Cp-get update
+   27  apt-get update
+   28  apt-get install     apt-transport-https     ca-certificates     curl     gnupg-agent     software-properties-common
+   29  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+   30  apt-key fingerprint 0EBFCD88
+   31  pub   rsa4096 2017-02-22 [SCEA]
+   32  uid           [ unknown] Docker Release (CE deb) <docker@docker.com>
+   33  apt-key fingerprint 0EBFCD88
+   34  add-apt-repository    "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
+   $(lsb_release -cs) \
+   stable"
+   35  add-apt-repository    "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
+   $(lsb_release -cs) \
+   stable"
+   36  apt-get update
+   37  apt-get install docker-ce docker-ce-cli containerd.io
+   38  apt-cache madison docker-ce
+   39  apt-get install     apt-transport-https     ca-certificates     curl     gnupg-agent     software-properties-common -y ; curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -; sudo add-apt-repository    "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
+   $(lsb_release -cs) \
+   stable"; apt-get update; apt-get install docker-ce docker-ce-cli containerd.io -y 
+   40  apt-get install     apt-transport-https     ca-certificates     curl     gnupg-agent     software-properties-common -y ; curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -; sudo add-apt-repository    "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
+   $(lsb_release -cs) \
+   stable"; apt-get update; apt-get install docker-ce docker-ce-cli containerd.io -y 
+   41  apt-get update
+   42  history
+   43  history > lab2.txt
+   44  ll
+   45  git add .
+   46  git commit -m "lab2"
+   47  git status
+   48  git push
+   49  git branch 
+   50  git ?
+   51  git branch master
+   52  git checkout master
+   53  ls\
+   54  ls
+   55  ll
+   56  ls-ltr
+   57  pwd
+   58  history
+   59  history  > lab2.txt
